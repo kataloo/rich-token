@@ -1,0 +1,2 @@
+# Contract
+$RICH token contract
